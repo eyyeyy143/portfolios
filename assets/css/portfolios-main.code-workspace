@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "portfolios-main",
+			"path": "../.."
+		},
+		{
+			"name": "assets",
+			"path": "../../../../../Users/Ryzen/Downloads/Compressed/Triple P Free Website Template - Free-CSS.com/html-freebie-triple-p-master/assets"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "portfolios-main"
+	}
+}
